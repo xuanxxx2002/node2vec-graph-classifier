@@ -2,6 +2,8 @@
 
 使用 Node2Vec 對 Karate Club 圖形學習節點嵌入，結合 t-SNE / UMAP 降維視覺化與 Logistic Regression 節點分類，完整呈現 Graph Embedding 的訓練與評估流程。
 
+![image](https://github.com/xuanxxx2002/node2vec-graph-classifier/blob/main/node2vec_analysis.png)
+
 ## 分析流程
 
 ```
